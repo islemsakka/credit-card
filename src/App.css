@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.card{
+  border:1px solid blue;
+  border-radius: 10px;
+  background-color: #124164;
+  height: 200px;
+  width: 350px;
+  margin: 2%;
+  background-image:url("https://pics.ebaystatic.com/aw/pics/mastercard/blue_card.png") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1%;
+  text-align:right;
+
+  
+}
+.name{
+ 
+  margin-right: 1%;
+  font-size: 24px;
+  color:white;
+}
+.date{
+
+font-size: 24px;
+  color:white;
+ text-align: center;
+ padding-right: 30%;
+}
+.nbr{
+  
+  font-size: 24px;
+  color:white;
+ text-align: center;
+display: block;
+padding-top: 10%;
+}
+.forms{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+ align-items: center;
+  
+}
